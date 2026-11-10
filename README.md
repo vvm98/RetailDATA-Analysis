@@ -88,10 +88,9 @@ conversion 20-25% on weekdays and 20-23% on weekends, UPS between 2 and 3, ATV o
 
 Add your dashboard images to `powerbi/images/` and uncomment these lines.
 
-<!--
 ![Store overview](powerbi/images/store_overview.png)
 ![Product sales](powerbi/images/product_sales.png)
--->
+
 
 ## Reproduce or extend the data
 
