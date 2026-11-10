@@ -1,0 +1,38 @@
+product_code,product_name,MH1_description,MH2_description,MH3_description,mrp
+APP-L01,Logo T-Shirt,Apparel,Lifestyle,,1499
+APP-L02,Graphic T-Shirt,Apparel,Lifestyle,,1799
+APP-L03,Polo T-Shirt,Apparel,Lifestyle,,2199
+APP-L04,Hoodie,Apparel,Lifestyle,,3999
+APP-L05,Sweatshirt,Apparel,Lifestyle,,3499
+APP-L06,Track Pants,Apparel,Lifestyle,,2799
+APP-L07,Joggers,Apparel,Lifestyle,,2499
+APP-L08,Casual Shorts,Apparel,Lifestyle,,1999
+APP-L09,Lifestyle Jacket,Apparel,Lifestyle,,4999
+APP-P01,Running T-Shirt,Apparel,Performance,,1699
+APP-P02,Training Shorts,Apparel,Performance,,1899
+APP-P03,Compression Tights,Apparel,Performance,,2999
+APP-P04,Sports Jacket,Apparel,Performance,,4499
+APP-P05,Football Jersey,Apparel,Performance,,2499
+APP-P06,Sports Bra,Apparel,Performance,,1799
+FTW-C01,Classic Sneakers,Footwear,Closed Footwear,Lifestyle,5999
+FTW-C02,Retro Sneakers,Footwear,Closed Footwear,Lifestyle,6999
+FTW-C03,Casual Sneakers,Footwear,Closed Footwear,Lifestyle,4499
+FTW-C04,Running Shoes,Footwear,Closed Footwear,Performance,7999
+FTW-C05,Training Shoes,Footwear,Closed Footwear,Performance,6499
+FTW-C06,Football Boots,Footwear,Closed Footwear,Performance,5499
+FTW-C07,Premium Running Shoes,Footwear,Closed Footwear,Performance,10999
+FTW-O01,Slides,Footwear,Open Footwear,Lifestyle,1799
+FTW-O02,Sandals,Footwear,Open Footwear,Lifestyle,2499
+FTW-O03,Flip Flops,Footwear,Open Footwear,Lifestyle,999
+FTW-O04,Recovery Slides,Footwear,Open Footwear,Performance,2299
+FTW-O05,Sports Sandals,Footwear,Open Footwear,Performance,2999
+ACC-L01,Backpack,Accessories,Lifestyle,,2799
+ACC-L02,Cap,Accessories,Lifestyle,,1199
+ACC-L03,Crew Socks (Pack of 3),Accessories,Lifestyle,,799
+ACC-L04,Waist Bag,Accessories,Lifestyle,,1599
+ACC-P01,Duffle Bag,Accessories,Performance,,3499
+ACC-P02,Training Gloves,Accessories,Performance,,1499
+ACC-P03,Football,Accessories,Performance,,1999
+ACC-P04,Sports Bottle,Accessories,Performance,,799
+ACC-P05,Performance Socks (Pack of 2),Accessories,Performance,,999
+ACC-P06,Sweatband,Accessories,Performance,,599

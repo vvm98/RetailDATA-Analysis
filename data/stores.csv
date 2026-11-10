@@ -1,0 +1,7 @@
+store_id,store_name,store_format,location_type,city
+ST01,StrideZone - Orbit Mall,EBO,Mall,Bengaluru
+ST02,StrideZone - Galleria Mall,EBO,Mall,Hyderabad
+ST03,StrideZone - Indiranagar,EBO,Standalone,Bengaluru
+ST04,StrideZone - Jayanagar,EBO,Standalone,Bengaluru
+ST05,StrideZone - Mysuru Road,EBO,Standalone,Mysuru
+ST06,StrideZone Outlet - Hosur Road,Discount,Outlet,Bengaluru
