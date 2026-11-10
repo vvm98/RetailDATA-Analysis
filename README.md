@@ -1,5 +1,5 @@
 # Retail Sales Analysis (Synthetic Data)
-
+![image alt](https://github.com/vvm98/RetailDATA-Analysis/blob/65e64cfbd8efe529bf8e899408fbec4524e34023/overview.png)
 An end-to-end retail analytics project on a **synthetic** dataset for a 6-outlet sports and lifestyle chain
 (2 mall EBOs, 3 standalone EBOs and 1 discount outlet), covering January and February 2026.
 All data is randomly generated. The brand, stores, products and customers are fictional.
